@@ -6,3 +6,4 @@ tsfresh
 antropy
 plotly-resampler
 tsflex
+yasa
