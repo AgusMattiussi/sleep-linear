@@ -1,0 +1,8 @@
+mne
+pyedflib
+seglearn
+tsfel
+tsfresh
+antropy
+plotly-resampler
+tsflex
